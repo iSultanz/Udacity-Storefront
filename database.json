@@ -1,0 +1,19 @@
+{
+ 
+    "dev": {
+      "driver": "pg",
+      "host": "localhost",
+      "database": "full-stack-javascript",
+      "user": "postgres",
+      "password": "postgres",
+      "port":"5432"
+    },
+    "test": {
+      "driver": "pg",
+      "host": "localhost",
+      "database": "full-stack-javascript_test",
+      "user": "postgres",
+      "password": "postgres",
+      "port":"5432"
+    }
+  }
